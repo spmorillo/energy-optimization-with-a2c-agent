@@ -1,0 +1,4 @@
+Saving initial model's weights!
+Model's weights loaded!
+Model's weights loaded!
+Saving new best model's weigth! Episode: 0,  Reward: -1100.6131997030288

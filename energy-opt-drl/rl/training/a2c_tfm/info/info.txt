@@ -1,0 +1,42 @@
+Saving initial model's weights!
+Saving new best model's weigth!
+Episode: 0,  Reward: -1742.5837996913317
+Saving new best model's weigth!
+Episode: 1,  Reward: -1701.5474193185555
+Saving new best model's weigth!
+Episode: 5,  Reward: -1679.4096301578013
+Saving new best model's weigth!
+Episode: 7,  Reward: -1652.17268503859
+Saving new best model's weigth!
+Episode: 8,  Reward: -1636.5139326050605
+Saving new best model's weigth!
+Episode: 9,  Reward: -1562.7298597572276
+Saving new best model's weigth!
+Episode: 10,  Reward: -1517.8087517438616
+Saving new best model's weigth!
+Episode: 11,  Reward: -1493.8056760713762
+Saving new best model's weigth!
+Episode: 12,  Reward: -1425.2018313273738
+Saving new best model's weigth!
+Episode: 13,  Reward: -1413.2335062642558
+Saving new best model's weigth!
+Episode: 14,  Reward: -1341.150545019617
+Model's weights loaded!
+Saving new best model's weigth!
+Episode: 1,  Reward: -1306.2546048400022
+Saving new best model's weigth!
+Episode: 2,  Reward: -1285.9510127723227
+Saving new best model's weigth!
+Episode: 3,  Reward: -1264.6125227267364
+Saving new best model's weigth!
+Episode: 4,  Reward: -1248.8115521390014
+Saving new best model's weigth!
+Episode: 5,  Reward: -1195.0495780620602
+Saving new best model's weigth!
+Episode: 8,  Reward: -1188.404837405466
+Saving new best model's weigth!
+Episode: 9,  Reward: -1177.2698909474557
+Saving new best model's weigth!
+Episode: 10,  Reward: -1176.4903134700057
+Saving new best model's weigth!
+Episode: 11,  Reward: -1174.6554740266988
